@@ -11,6 +11,8 @@
     "url": "git+https://github.com/MetalCanine/styrofoam.git"
   },
   "keywords": [
+	 "styrofoam",
+	 "testing"
   ],
   "author": "Jenn Wilde",
   "license": "MIT",
