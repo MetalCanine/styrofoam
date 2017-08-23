@@ -1,0 +1,8 @@
+# Crufty bits to not cruft up your hdd
+.git*
+
+docs/
+test/
+
+.travis.yml
+AUTHORS
