@@ -1,6 +1,6 @@
 {
   "name": "styrofoam",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper to test console output in Node.js",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/MetalCanine/styrofoam.git"
   },
   "keywords": [
-	 "styrofoam",
-	 "testing"
+    "styrofoam",
+    "testing"
   ],
   "author": "Jenn Wilde",
   "license": "MIT",
