@@ -1,4 +1,12 @@
 # styrofoam
-It's what you put your mocha and your chai in
 
-Meant to aid in unit tests for checking console input
+Simple wrapper for command line IO
+
+`$ npm install styrofoam` and it's as easy as:
+
+```
+const io = require(styrofoam);
+
+let echo = io.read();
+io.write(echo);
+```

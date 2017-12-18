@@ -1,10 +1,9 @@
 {
   "name": "styrofoam",
   "version": "0.0.2",
-  "description": "A helper to test console output in Node.js",
+  "description": "Simple IO for the command line",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -12,12 +11,21 @@
   },
   "keywords": [
     "styrofoam",
-    "testing"
+    "input",
+    "output",
+    "command",
+    "line",
+    "IO",
+    "read",
+    "write"
   ],
   "author": "Jenn Wilde",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MetalCanine/styrofoam/issues"
   },
-  "homepage": "https://github.com/MetalCanine/styrofoam#readme"
+  "homepage": "https://github.com/MetalCanine/styrofoam#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
 }
