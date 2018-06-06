@@ -24,7 +24,5 @@
     "url": "https://github.com/MetalCanine/styrofoam/issues"
   },
   "homepage": "https://github.com/MetalCanine/styrofoam#readme",
-  "dependencies": {
-    "readline-sync": "^1.4.7"
-  }
+  "dependencies": {}
 }
