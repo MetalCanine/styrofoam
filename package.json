@@ -1,6 +1,6 @@
 {
   "name": "styrofoam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple IO for the command line",
   "main": "index.js",
   "scripts": {},
