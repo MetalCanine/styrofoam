@@ -1,6 +1,6 @@
 {
   "name": "styrofoam",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Simple IO for the command line",
   "main": "index.js",
   "scripts": {},
@@ -18,7 +18,7 @@
     "read",
     "write"
   ],
-  "author": "Jenn Wilde",
+  "author": "Juniper Wilde",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MetalCanine/styrofoam/issues"
